@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate and aspiring **Software Engineer 
 ### 📈 GitHub Stats
 
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fwzrasyad&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=fwzrasyad&show_icons=true&theme=radical" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=<fwzrasyad>&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=<fwzrasyad>&theme=radical" alt="Streak Stats" />
