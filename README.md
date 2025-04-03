@@ -17,8 +17,6 @@ Welcome to my GitHub profile! I'm a passionate and aspiring **Software Engineer 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fwzrasyad&show_icons=true&theme=radical" />
-
   <img src="https://github-readme-stats.vercel.app/api?username=fwzrasyad&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=<fwzrasyad>&theme=radical" alt="Streak Stats" />
 </p>
@@ -32,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate and aspiring **Software Engineer 
 ### 🔧 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=fwzrasyad&theme=github-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fwzrasyad&theme=github-dark" />
 </p>
 
 ### 🚀 Projects
