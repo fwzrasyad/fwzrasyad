@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate and aspiring **Software Engineer 
 - 📧 **Email:** [muhfrasyad@gmail.com](mailto:muhfrasyad@gmail.com)
 
 
-![Thanks for Visiting!](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+![Thanks for Visiting!]
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fwzrasyad/fwzrasyad/output/github-contribution-grid-snake-dark.svg">
