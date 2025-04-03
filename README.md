@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate and aspiring **Software Engineer 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,flutter,laravel,git,js,ts,python" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,vue,flutter,laravel,git,js,ts,python,cpp" alt="Tech Stack" />
 </p>
 
 ### 📈 GitHub Stats
