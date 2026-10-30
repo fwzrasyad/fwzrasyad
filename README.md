@@ -1,24 +1,33 @@
 ## Hi there, I'm Fawwaz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Welcome to my GitHub profile! I'm a passionate and aspiring **Software Engineer & Developer** who loves building amazing projects with modern technologies.
+I'm a **Software Engineer** who builds cross-platform mobile apps and full-stack web systems, mostly with Flutter. I recently graduated from Universiti Sains Malaysia and now teach programming on the side.
 
 ### 🚀 About Me
-- 💻 **Tech Enthusiast** | Love working with **React Native, Vue.js, Laravel, Flutter**
-- 🎓 **Software Engineering Intern** | Gaining hands-on experience in **Flutter, Vue.js, Laravel & QA**
-- 🌍 **Currently in Kuala Lumpur**
-- 📖 **Learning Advanced Flutter & Vue.js**
+- 🎓 **B.Sc. Software Engineering (Hons.)**, Universiti Sains Malaysia, 3x Dean's List
+- 🏆 **PIXEL 2026 Gold Award** for my final year project, PawHealth
+- 💻 **Previously** Software Engineer Intern at Nextale: shipped Flutter apps, GraphQL APIs, a dual-display POS and a Google Maps delivery flow
+- 👨‍🏫 **Currently** Computer Science Tutor at Telebort (mobile, web, Python)
+- 🍽️ **Working on** cravings.io v2, heading to the Google Play Store
+- 🌍 **Based in** Penang, Malaysia
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,flutter,laravel,git,js,ts,python,cpp" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,react,vue,laravel,tailwind,ts,js,python,kotlin,java,cpp,firebase,supabase,postgres,mysql,graphql,git,github" alt="Tech Stack" />
 </p>
+
+### 📂 Projects
+- 🥗 **cravings.io**: offline-first Flutter weekly meal planner for athletes, with quick Western and Indonesian recipes and calorie/macro targets
+- 🎮 **Deckhand**: phone-to-PC remote and hardware monitor (Python, WebSockets, Flutter, pinned TLS)
+- 🐾 **PawHealth**: veterinary consultation platform (Flutter, Vue.js, Laravel, TensorFlow Lite)
+- 🍔 **USM Feasto**: campus food hub web app (React, TypeScript, Supabase)
+- ♻️ **SolarBin**: solar-powered IoT smart waste bin with a Flutter + Firebase dashboard
 
 ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fwzrasyad&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<fwzrasyad>&theme=radical" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=fwzrasyad&theme=radical" alt="Streak Stats" />
 </p>
 
 ### 🌟 Top Languages
@@ -30,16 +39,13 @@ Welcome to my GitHub profile! I'm a passionate and aspiring **Software Engineer 
 ### 🔧 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fwzrasyad&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fwzrasyad&theme=github-dark" alt="Activity Graph" />
 </p>
 
-### 🚀 Projects
-- 🐱 **MeowCare** - A React Native app for pet care
-
 ### 💬 Let's Connect!
-- 💼 **LinkedIn:** [Muhammad Fawwaz Rasyad](https://www.linkedin.com/in/muhammad-fawwaz-rasyad-0b6656251/)
+- 🌐 **Portfolio:** [fwzrasyad.vercel.app](https://fwzrasyad.vercel.app)
+- 💼 **LinkedIn:** [linkedin.com/in/fwzrasyad](https://linkedin.com/in/fwzrasyad)
 - 📧 **Email:** [muhfrasyad@gmail.com](mailto:muhfrasyad@gmail.com)
-
 
 ## Thanks for Visiting!
 
@@ -48,6 +54,3 @@ Welcome to my GitHub profile! I'm a passionate and aspiring **Software Engineer 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fwzrasyad/fwzrasyad/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fwzrasyad/fwzrasyad/output/github-contribution-grid-snake.svg">
 </picture>
-<!--
-**fwzrasyad/fwzrasyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
