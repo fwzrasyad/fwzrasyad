@@ -23,23 +23,10 @@ I'm a **Software Engineer** who builds cross-platform mobile apps and full-stack
 - 🍔 **USM Feasto**: campus food hub web app (React, TypeScript, Supabase)
 - ♻️ **SolarBin**: solar-powered IoT smart waste bin with a Flutter + Firebase dashboard
 
-### 📈 GitHub Stats
+### 📈 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fwzrasyad&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=fwzrasyad&theme=radical" alt="Streak Stats" />
-</p>
-
-### 🌟 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwzrasyad&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-### 🔧 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fwzrasyad&theme=github-dark" alt="Activity Graph" />
 </p>
 
 ### 💬 Let's Connect!
